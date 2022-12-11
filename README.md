@@ -3,17 +3,19 @@
   👀 I’m currently pursuing B.E in Computer Science at RRCE</br>
   
   📫 How to reach me   <br>
+  
 <a href="https://www.linkedin.com/in/manasa-gautam-96b1081a1">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  target="_blank"/>
 </a>
 <a href="mailto:welcomemanasa@gmail.com">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
-</br>
+</br></br>
+
 ![Manasa's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manasa-Gautam&show_icons=true&theme=radical)
+
 <br />
 <h1 align="left">TOOLS</h1>
-
 <p align="left"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
