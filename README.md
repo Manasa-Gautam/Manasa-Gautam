@@ -1,5 +1,5 @@
 ![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
-[![Typing SVG](https://readme-typing-svg.demolab.com/Hi!+I'm+manasaFirst+line+of+text;Second+line+of+text)]<br>
+[![Typing SVG](https://readme-demolab.com/Hi!+I'm+manasaFirst+line+of+text;Second+line+of+text)]<br>
   👀 I’m currently pursuing B.E in Computer Science at RRCE</br>
   
   📫 How to reach me   <br>
