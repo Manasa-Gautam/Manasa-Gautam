@@ -1,8 +1,6 @@
-![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)
-  👀 I’m currently pursuing B.E in Computer Science at RRCE</br>
-  
-  📫 How to reach me   <br>
-  
+![GitHub-Mark-Light](https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only)![GitHub-Mark-Dark](https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only)<br>
+👀 I’m currently pursuing B.E in Computer Science at RRCE</br>
+📫 How to reach me   <br> 
 <a href="https://www.linkedin.com/in/manasa-gautam-96b1081a1">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  target="_blank"/>
 </a>
